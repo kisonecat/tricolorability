@@ -8,7 +8,7 @@ body {
 }
 
 #svgContainer svg {
-  width: 100%;
+  width: 90vw;
   height: auto;
-  max-width: 600px; /* adjust max-width as needed */
+  max-height: 90vh;
 }
