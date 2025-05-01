@@ -35,11 +35,9 @@
      fill="#000000"
      id="path1"
      style="stroke-width:0.693889" />
-  <rect
-     style="fill:#808000;stroke:#00c800;stroke-width:2.33333;stroke-linecap:square"
-     id="rect1"
-     width="60"
-     height="120"
-     x="120"
-     y="46.666668" />
+  <path
+     id="path2"
+     d="M120,46.666668 H180 V166.666668 H120 Z"
+     fill="#000000"
+     style="stroke:#00c800;stroke-width:2.33333;stroke-linecap:square"/>
 </svg>

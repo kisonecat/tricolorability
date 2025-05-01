@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
   <path d="M100 10 L190 190 L10 190 Z" fill="black"/>
+  <path d="M50 50 L150 50 L100 150 Z" fill="black"/>
 </svg>
